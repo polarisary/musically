@@ -75,4 +75,4 @@ the right to opt out of any marketing communications that we (or any third party
 10. Changes to Privacy and Cookies Policy
 Musically reserves the right to change this Privacy and Cookies Policy without prior notice at any time, and will do so by posting the updated version on our Site.
 
-** Effective: May 28, 2018 **
+### Effective: May 28, 2018
